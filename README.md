@@ -1,16 +1,29 @@
-## Hi there 👋
+# مرحباً، أنا عدنان 👋
+### مصمم جرافيك | شغوف بتطوير الويب
 
-<!--
-**atte9701gmail/atte9701gmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مقيم في أبوظبي، الإمارات العربية المتحدة 📍
+متاح للعمل الحر (Freelance) والدوام الكامل (Full-time).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 نبذة عني
+مصمم جرافيك متخصص في تصميم المطبوعات والهويات البصرية، أركز على إبراز التفاصيل الجمالية والبساطة في التصميم. أؤمن بأن التصميم الناجح هو الذي يوصل الرسالة بوضوح ويترك انطباعًا بصريًا يدوم. أعمل حالياً على دمج خبرتي الفنية مع الجانب التقني من خلال تعلم تطوير الويب باستخدام لغة Python.
+
+---
+
+### 🛠 المهارات والخبرات
+* **التصميم الجرافيكي:** احتراف برامج (Adobe Illustrator, Photoshop, InDesign) لإنتاج مشاريع احترافية تشمل الكتب، البروشورات، التغليف، وتصاميم السوشيال ميديا.
+* **البرمجة وتطوير الويب:** أعمل حالياً على توسيع مهاراتي التقنية وبناء مواقع الويب.
+
+---
+
+### 🌍 اللغات
+* **العربية:** اللغة الأم
+* **الإنجليزية:** جيد
+
+---
+
+### 🔗 تواصل معي وشاهد أعمالي
+* 🌐 **موقعي الشخصي:** [زيارة الموقع](https://atte9701gmail.github.io/ah-design/)
+* 🎨 **معرض أعمالي على Behance:** [ahdesign2050](https://www.behance.net/ahdesign2050)
+* 📌 **إلهامي على Pinterest:** [adndesign23](https://www.pinterest.com/adndesign23/)
